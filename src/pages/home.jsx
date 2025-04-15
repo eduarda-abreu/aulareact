@@ -10,8 +10,8 @@ export default function Home() {
         }
       `}</style>
       <div className="home-container">
-        <h1>Bem-vindo à Home</h1>
-        <p>Escolha um dos projetos no menu acima.</p>
+        <h1>Bem-vindo à página inicial</h1>
+        <p>Escolha um dos projetos acima.</p>
         <img src={joia} alt=""/>
       </div>
     </>
