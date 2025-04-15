@@ -21,11 +21,12 @@ export default function CalculadoraNormal() {
   };
 
   const buttons = [
+    "", "", "AC", "DEL",
     "7", "8", "9", "/",
     "4", "5", "6", "*",
     "1", "2", "3", "-",
-    "0", ".", "=", "+",
-    "AC", "DEL"
+     ".","0", "=", "+",
+   
   ];
 
   return (

@@ -63,7 +63,7 @@ export default function CalculadoraCientifica() {
           font-family: sans-serif;
         }
         .tela {
-          background: #222;
+          background: rgb(0,0,0);
           color: #0f0;
           font-size: 1.5rem;
           padding: 10px;
@@ -83,12 +83,12 @@ export default function CalculadoraCientifica() {
           border: none;
           border-radius: 8px;
           cursor: pointer;
-          background: #444;
-          color: white;
+          background: rgb(0,0,0);
+          color: rgb(92, 226, 2);
           transition: background 0.2s;
         }
         button:hover {
-          background: #666;
+          background:  #2a2a2a;
         }
       `}</style>
 
